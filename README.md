@@ -57,7 +57,6 @@ A task management application built using Django.
   <img src="https://github-readme-stats.vercel.app/api?username=Karthik777max&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
 </p>
 
-## 🤝 Connect With Me
 
 ## 🤝 Connect With Me
 
