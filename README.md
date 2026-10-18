@@ -1,9 +1,9 @@
 ## Hi there 👋
-<h2 align="center">Hi, I'm Karthik 👋</h2>
+<h1 align="center">Hi, I'm Karthik 👋</h1>
 
-<h4 align="center">
+<h2 align="center">
   Computer Science Student • AI/ML Student • Aspiring Software Developer
-</h4>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Problem+Solving+%7C+DSA;Building+Projects+with+Python+%26+SQL;Open+to+Internship+Opportunities" alt="Typing SVG" />
