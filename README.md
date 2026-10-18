@@ -6,8 +6,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Problem+Solving+%7C+Gen Ai,LLMs;Building+Projects+with+Python+%26+SQL;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Problem+Solving+%7C+GenAI%2C+LLMs;Building+Projects+with+Python+%26+SQL;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
+
 
 ---
 
