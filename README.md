@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Karthik 👋</h1>
 
 <h2 align="center">
-  Computer Science Student • AI/ML Student • Aspiring Software Developer
+  Computer Science Student • AI/ML Student • Aspiring  Developer
 </h2>
 
 <p align="center">
@@ -32,6 +32,7 @@
 - Problem Solving
 - Backend Development
 - Data Analysis
+- Gen AI and LLms
 
 ## 🚀 Featured Projects
 
