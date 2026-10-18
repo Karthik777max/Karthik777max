@@ -1,10 +1,12 @@
 ## Hi there 👋
 <h1 align="center">Hi, I'm Karthik 👋</h1>
 
-<h3 align="center">Computer Science Student | AI/ML | Problem Solving</h3>
+<h3 align="center">
+  Computer Science Student • AI/ML Enthusiast • Aspiring Software Developer
+</h3>
 
 <p align="center">
-  Interested in building practical software solutions and exploring intelligent systems.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Machine+Learning;Problem+Solving+%7C+DSA;Building+Projects+with+Python+%26+SQL;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
@@ -56,13 +58,20 @@ A task management application built using Django.
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="left">
   <a href="https://github.com/Karthik777max">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Replace YOUR_LINKEDIN_URL with your LinkedIn profile URL -->
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Karthik_231/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
-
----
-
 <p align="center"><i>Learn continuously. Build thoughtfully. Solve meaningful problems.</i></p>
